@@ -1,8 +1,18 @@
 import React from 'react';
 import './Home.css'
+import useBikes from '../../hooks/useBikes';
+import ThreeReview from '../ThreeReview/ThreeReview';
+import { Link } from 'react-router-dom';
 
 
 const Home = () => {
+  const [reviewBikes] = useBikes();
+  const threeReviews = reviewBikes.slice(0, 3);
+
+
+
+
+
 
 
   return (
@@ -19,7 +29,19 @@ const Home = () => {
         </div>
       </div>
       <div className="customer-review">
-        <h2>Customer Reviews </h2>
+        <h2>Customer Reviews {threeReviews.name}</h2>
+        <div className='three-review-grid'>
+          {
+            threeReviews.map(review => <ThreeReview
+              key={review.id}
+              review={review}
+            ></ThreeReview>)
+          }
+        </div>
+        <Link className='all-review-btn' to="/reviews">See all Review</Link>
+
+
+
 
 
       </div>

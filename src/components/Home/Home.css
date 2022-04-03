@@ -5,3 +5,18 @@
 .container {
   display: flex;
 }
+
+.three-review-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+.all-review-btn {
+  text-decoration: none;
+  background: rgb(16, 57, 240);
+  color: white;
+  padding: 5px 20px;
+  margin: 30px;
+
+}
