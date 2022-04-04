@@ -1,0 +1,25 @@
+.recharts h4 {
+  color: blue;
+
+}
+
+.line-area-chart {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pie-radialBar-chart {
+  display: flex;
+  justify-content: space-around;
+}
+
+@media only screen and (max-width: 500px) {
+  .line-area-chart {
+    display: block;
+  }
+
+  .pie-radialBar-chart {
+    display: block;
+  }
+
+}

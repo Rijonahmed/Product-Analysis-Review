@@ -1,36 +1,42 @@
 [
   {
     "id": 1,
+    "images": "https://cdn.cdnparenting.com/articles/2021/06/04112330/115992457.webp",
     "name": "Rijon Ahmed",
     "text": " এ বাইকটিতে এমন কিছুই নাই যে, বাংলাদেশে এটির খুচরা মূল্য প্রায় ৫ লক্ষ টাকা হতে পরে। কাজেই ক্রয় করার আগে আরেকবার ভাবুন।",
     "rating": 0
   },
   {
     "id": 2,
+    "images": "https://images.gr-assets.com/authors/1456905354p8/15050617.jpg",
     "name": "Jhankar Mahbub",
     "text": "The bike R15 v3 comes with a fully-digital instrument cluster also comes with efficiency readout in addition to the regular trove of information.",
     "rating": 3
   },
   {
     "id": 3,
-    "name": "Yeamul Ahad Rijon",
+    "images": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg",
+    "name": "Lionel Messi",
     "text": " Extra unwritten facilities like Royalty, Trendy & Featured bike.",
     "rating": 5
   },
   {
     "id": 4,
+    "images": "https://javascript-conference.com/wp-content/uploads/2018/01/Karina-Islam-1.jpg",
     "name": "Karina Islam",
     "text": " The Yamaha R15 v3 bike is basically a racing machine, designed to perform well on racing tracks, not on alleys, busy roads or highways.",
     "rating": 0
   },
   {
     "id": 5,
+    "images": "https://pbs.twimg.com/profile_images/1396734062031630343/tDgBGQSt_400x400.jpg",
     "name": "Tamim Eqbal",
     "text": "  R15 v3 বাইকটিতে ব্যাবহার করা হয়েছে die cast aluminum cylinder (DiASil), যেটি দ্রুত সিতল হতে সাহায্য করে।",
     "rating": 5
   },
   {
     "id": 6,
+    "images": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893396-e1520011475170.jpg",
     "name": "Shakib Al Hasan",
     "text": " R15 v3 বাইকটিতে High Performance (VVA) সিস্টেম ব্যাবহার করা হয়েছে, যেটি কম rpm থাকাকালিন সময়েও পর্যাপ্ত টর্ক সরবরাহ করে। এখানে এই প্রযুক্তিতে দুইটি intake valve cams: ব্যাবহার করা হয়েছে, যাদের একটি নিম্ন থেকে মধ্য-পরিসীমা আরপিএমের জন্য এবং অন্যটি উচ্চ আরপিএমের জন্য পর্যাপ্ত টর্ক সরবরাহ করে। ফলে এই দুইয়ের সমন্বয়েই বাইকটি ভাল শক্তি নিশ্চিত করে।",
     "rating": 4
