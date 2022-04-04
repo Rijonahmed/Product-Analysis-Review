@@ -11,3 +11,7 @@
   height: 200px;
   border-radius: 50%;
 }
+
+.red {
+  color: rgba(255, 38, 0, 0.747);
+}

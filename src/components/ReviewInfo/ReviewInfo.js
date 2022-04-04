@@ -8,7 +8,7 @@ const ReviewInfo = (props) => {
       <img src={images} alt="" />
       <h1>{name}</h1>
       <p>{text}</p>
-      <h4>{rating} Star</h4>
+      <h4>Rating : <span className='red'> {rating} Star</span></h4>
     </div>
   );
 };

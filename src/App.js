@@ -12,7 +12,7 @@ import Reviews from './components/Reviews/Reviews';
 function App() {
   return (
     <div className="App">
-      <h1>this is ready to react router</h1>
+
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>

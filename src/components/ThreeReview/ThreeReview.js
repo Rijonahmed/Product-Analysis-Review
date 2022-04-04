@@ -8,7 +8,7 @@ const ThreeReview = (props) => {
       <img src={images} alt="" />
       <h2>{name}</h2>
       <p>{text}</p>
-      <h4>Rating: {rating} Star</h4>
+      <h4>Rating: <span className='red'>{rating} Star</span></h4>
 
 
     </div>
