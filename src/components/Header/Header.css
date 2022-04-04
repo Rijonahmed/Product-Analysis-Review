@@ -1,7 +1,13 @@
 .navbar-Link {
   text-decoration: none;
+  color: rgb(41, 40, 85);
   margin-right: 20px;
+  font-weight: 700;
 
+}
+
+.navbar-Link:hover {
+  color: rgb(149, 125, 236);
 }
 
 .navbar {
