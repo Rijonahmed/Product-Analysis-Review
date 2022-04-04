@@ -2,12 +2,13 @@ import React from 'react';
 import './ThreeReview.css'
 
 const ThreeReview = (props) => {
-  const { name, text, rating } = props.review
+  const { name, text, rating, images } = props.review
   return (
     <div className='three-review'>
-      <h2>name {name}</h2>
+      <img src={images} alt="" />
+      <h2>{name}</h2>
       <p>{text}</p>
-      <h6>{rating}</h6>
+      <h4>Rating: {rating} Star</h4>
 
 
     </div>

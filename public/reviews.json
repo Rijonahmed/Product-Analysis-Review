@@ -15,17 +15,17 @@
   },
   {
     "id": 3,
-    "images": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg",
-    "name": "Lionel Messi",
-    "text": " Extra unwritten facilities like Royalty, Trendy & Featured bike.",
-    "rating": 5
-  },
-  {
-    "id": 4,
     "images": "https://javascript-conference.com/wp-content/uploads/2018/01/Karina-Islam-1.jpg",
     "name": "Karina Islam",
     "text": " The Yamaha R15 v3 bike is basically a racing machine, designed to perform well on racing tracks, not on alleys, busy roads or highways.",
     "rating": 0
+  },
+  {
+    "id": 4,
+    "images": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg",
+    "name": "Lionel Messi",
+    "text": " Extra unwritten facilities like Royalty, Trendy & Featured bike.",
+    "rating": 5
   },
   {
     "id": 5,

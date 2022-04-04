@@ -10,11 +10,6 @@ const Home = () => {
   const threeReviews = reviewBikes.slice(0, 3);
 
 
-
-
-
-
-
   return (
     <div>
       <div className='container'>
@@ -38,7 +33,9 @@ const Home = () => {
             ></ThreeReview>)
           }
         </div>
-        <Link className='all-review-btn' to="/reviews">See all Review</Link>
+        <div className='review-btn-container'>
+          <Link className='all-review-btn' to="/reviews">See all Review</Link>
+        </div>
 
 
 

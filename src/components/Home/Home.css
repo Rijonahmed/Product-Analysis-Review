@@ -4,12 +4,20 @@
 
 .container {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-container p {
+  margin: 0 20px;
+
 }
 
 .three-review-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
+  margin-bottom: 30px;
 }
 
 .all-review-btn {
@@ -17,6 +25,12 @@
   background: rgb(16, 57, 240);
   color: white;
   padding: 5px 20px;
-  margin: 30px;
+  border-radius: 10px;
+
+
+}
+
+.review-btn-container {
+  margin-bottom: 30px;
 
 }

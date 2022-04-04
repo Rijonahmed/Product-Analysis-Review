@@ -1,3 +1,13 @@
 .three-review {
-  border: 2px solid gray;
+
+  border-radius: 8px;
+  padding: 2rem;
+  background: rgba(235, 228, 228, 0.281);
+
+}
+
+.three-review img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
